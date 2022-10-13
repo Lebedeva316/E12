@@ -1,0 +1,3 @@
+/*! For license information please see main.js.LICENSE.txt */
+document.write("Hello, world!!");
+//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoibWFpbi5qcyIsIm1hcHBpbmdzIjoiO0FBRUFBLFNBQVNDLE1BQU0iLCJzb3VyY2VzIjpbIndlYnBhY2s6Ly93ZWJwYWNrLy4vc3JjL2luZGV4LmpzIl0sInNvdXJjZXNDb250ZW50IjpbIi8vaW1wb3J0IFwiLi9zdHlsZS5jc3NcIjtcclxuXHJcbmRvY3VtZW50LndyaXRlKCdIZWxsbywgd29ybGQhIScpOyJdLCJuYW1lcyI6WyJkb2N1bWVudCIsIndyaXRlIl0sInNvdXJjZVJvb3QiOiIifQ==
